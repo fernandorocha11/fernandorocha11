@@ -1,16 +1,21 @@
-### Hi there 👋
+# Fernando Rocha
 
-<!--
-**fernandorocha11/fernandorocha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Student Web Developer
+- Idade: 14y
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+#### Tenho interesse em:
+
+- C
+- Elixir
+
+## Contato
+- fernandorochaaa78@gmail.com
