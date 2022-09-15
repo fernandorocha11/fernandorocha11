@@ -10,6 +10,8 @@
 - HTML
 - CSS
 - JavaScript
+
+- NodeJS
 - SQL
 
 #### Tenho interesse em:
