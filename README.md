@@ -3,16 +3,11 @@
 - Student Web Developer
 - Idade: 14y
 
-<hr>
-
-## Tecnologias
+### Tecnologias
 
 - HTML
 - CSS
 - JavaScript
-
-<br />
-
 - NodeJS
 - SQL
 
